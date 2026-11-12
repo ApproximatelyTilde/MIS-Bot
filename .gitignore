@@ -1,0 +1,14 @@
+.agents/
+.pytest_cache/
+.venv*/
+.vscode/
+__pycache__/
+AvraeDocs/
+Examples/
+Scratch/
+Tests/
+Trash/
+
+.env
+pytest.ini
+Requirements.txt
