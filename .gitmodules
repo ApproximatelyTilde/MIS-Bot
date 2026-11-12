@@ -1,0 +1,19 @@
+[submodule "Services/External/Avrae"]
+	path = Services/External/Avrae
+	url = https://github.com/avrae/avrae
+[submodule "Services/External/Platform"]
+	path = Services/External/Platform
+	url = https://github.com/ApproximatelyTilde/MIS
+	branch = dev
+[submodule "Services/External/5ETools"]
+	path = Services/External/5ETools
+	url = https://github.com/5etools-mirror-3/5etools-src
+[submodule "Services/External/RoleByPost"]
+	path = Services/External/RoleByPost
+	url = https://github.com/CptConstantine/RoleByPost
+[submodule "Services/External/Draconic"]
+	path = Services/External/Draconic
+	url = https://github.com/avrae/draconic
+[submodule "Services/External/AutomationCommon"]
+	path = Services/External/AutomationCommon
+	url = https://github.com/avrae/automation-common

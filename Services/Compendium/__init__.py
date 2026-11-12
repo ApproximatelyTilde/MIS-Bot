@@ -1,0 +1,3 @@
+import Services.Compendium.SourceFilterService as SourceFilter
+
+GLOBAL_SOURCE_FILTER: SourceFilter.SourceFilterService = SourceFilter.GLOBAL_SOURCE_FILTER

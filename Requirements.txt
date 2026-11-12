@@ -1,0 +1,4 @@
+d20
+discord.py
+httpx2
+pydantic-settings
