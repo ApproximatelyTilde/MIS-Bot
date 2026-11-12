@@ -1,0 +1,11 @@
+.agents/
+.pytest_cache/
+.venv*/
+.vscode/
+__pycache__/
+AvraeDocs/
+Examples/
+Scratch/
+Trash/
+
+.env
